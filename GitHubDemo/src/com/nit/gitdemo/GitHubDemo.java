@@ -6,6 +6,8 @@ public class GitHubDemo {
 	}
     public static void m2(int i)
     {
+    	
+    	System.out.print(i*i+" ");
     	System.out.print(i*i+" ");
     }
 	public static void main(String[] args) {
